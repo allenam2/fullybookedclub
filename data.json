@@ -54,15 +54,15 @@
       "scores": {}
     },
     {
-      "book": "",
-      "author": "",
-      "cover": "",
+      "book": "Fourth Wing",
+      "author": "Rebecca Yarros",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/dd/Fourth_Wing_Cover_Art.jpeg",
       "pitcher": "",
-      "avg": "",
+      "avg": "10",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
+      "genre": "fantasy",
       "quote": "",
       "scores": {}
     }
@@ -432,12 +432,12 @@
   "pitches": [],
   "archive": [
     {
-      "book": "The Women",
-      "author": "Kristin Hannah",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Women_Kristin_Hannah_book_cover.jpg",
-      "genre": "historical",
+      "book": "Verity",
+      "author": "Colleen Hoover",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Alfred_Schwarzschild%27s_%22Truth%22.jpg/330px-Alfred_Schwarzschild%27s_%22Truth%22.jpg",
+      "genre": "thriller",
       "pitcher": "",
-      "avg": "10",
+      "avg": "3",
       "mvp": "",
       "lvp": "",
       "cage": "",
@@ -446,12 +446,12 @@
       "responses": []
     },
     {
-      "book": "The Five Year Lie",
-      "author": "Sarina Bowen",
-      "cover": "https://www.goodreads.com/en/book/show/195853534-the-five-year-lie",
-      "genre": "romance",
+      "book": "The Women",
+      "author": "Kristin Hannah",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Women_Kristin_Hannah_book_cover.jpg",
+      "genre": "historical",
       "pitcher": "",
-      "avg": "8",
+      "avg": "10",
       "mvp": "",
       "lvp": "",
       "cage": "",
@@ -472,5 +472,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:49:11.971Z"
+  "lastPublished": "2026-07-19T18:50:37.764Z"
 }
