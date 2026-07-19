@@ -615,7 +615,20 @@
       ]
     }
   ],
-  "pitches": [],
+  "pitches": [
+    {
+      "title": "",
+      "author": "",
+      "pitcher": "",
+      "votes": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "pitcher": "",
+      "votes": ""
+    }
+  ],
   "archive": [
     {
       "book": "Verity",
@@ -854,5 +867,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T19:39:17.285Z"
+  "lastPublished": "2026-07-19T19:41:22.208Z"
 }
