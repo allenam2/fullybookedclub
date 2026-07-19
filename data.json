@@ -857,7 +857,7 @@
     }
   ],
   "meeting": {
-    "date": "2026-08-02",
+    "date": "2026-07-26",
     "time": "12:00",
     "frequency": "Monthly",
     "venue": "Apres",
@@ -868,5 +868,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T19:35:13.480Z"
+  "lastPublished": "2026-07-19T19:36:18.913Z"
 }
