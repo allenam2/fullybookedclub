@@ -54,15 +54,15 @@
       "scores": {}
     },
     {
-      "book": "",
-      "author": "",
-      "cover": "",
+      "book": "Verity",
+      "author": "Colleen Hoover",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Alfred_Schwarzschild%27s_%22Truth%22.jpg/330px-Alfred_Schwarzschild%27s_%22Truth%22.jpg",
       "pitcher": "",
-      "avg": "",
+      "avg": "6",
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
+      "genre": "thriller",
       "quote": "",
       "scores": {}
     }
@@ -486,5 +486,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:44:24.217Z"
+  "lastPublished": "2026-07-19T18:45:29.518Z"
 }
