@@ -458,6 +458,20 @@
       "quote": "",
       "attendees": [],
       "responses": []
+    },
+    {
+      "book": "The Five Year Lie",
+      "author": "Sarina Bowen",
+      "cover": "https://m.media-amazon.com/images/I/71EnVy-cTIL._SL1500_.jpg",
+      "genre": "romance",
+      "pitcher": "",
+      "avg": "8",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "quote": "",
+      "attendees": [],
+      "responses": []
     }
   ],
   "meeting": {
@@ -472,5 +486,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:43:39.950Z"
+  "lastPublished": "2026-07-19T18:44:24.217Z"
 }
