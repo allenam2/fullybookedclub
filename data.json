@@ -472,6 +472,20 @@
       "quote": "",
       "attendees": [],
       "responses": []
+    },
+    {
+      "book": "Verity",
+      "author": "Colleen Hoover",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Alfred_Schwarzschild%27s_%22Truth%22.jpg/330px-Alfred_Schwarzschild%27s_%22Truth%22.jpg",
+      "genre": "thriller",
+      "pitcher": "",
+      "avg": "6",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "quote": "",
+      "attendees": [],
+      "responses": []
     }
   ],
   "meeting": {
@@ -486,5 +500,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:45:29.518Z"
+  "lastPublished": "2026-07-19T18:45:44.296Z"
 }
