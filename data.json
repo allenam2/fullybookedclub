@@ -23,20 +23,6 @@
       "mvp": "",
       "lvp": "",
       "cage": "",
-      "genre": "",
-      "quote": "",
-      "scores": {},
-      "historical": true
-    },
-    {
-      "book": "Verity",
-      "author": "Colleen Hoover",
-      "cover": "https://covers.openlibrary.org/b/id/8747160-L.jpg",
-      "pitcher": "",
-      "avg": "6",
-      "mvp": "",
-      "lvp": "",
-      "cage": "",
       "genre": "thriller",
       "quote": "",
       "scores": {},
@@ -868,5 +854,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T19:36:18.913Z"
+  "lastPublished": "2026-07-19T19:39:17.285Z"
 }
