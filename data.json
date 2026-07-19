@@ -444,6 +444,20 @@
       "quote": "",
       "attendees": [],
       "responses": []
+    },
+    {
+      "book": "The Women",
+      "author": "Kristin Hannah",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Women_Kristin_Hannah_book_cover.jpg",
+      "genre": "historical",
+      "pitcher": "",
+      "avg": "10",
+      "mvp": "",
+      "lvp": "",
+      "cage": "",
+      "quote": "",
+      "attendees": [],
+      "responses": []
     }
   ],
   "meeting": {
@@ -458,5 +472,5 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T18:38:10.781Z"
+  "lastPublished": "2026-07-19T18:38:24.357Z"
 }
