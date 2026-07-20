@@ -867,5 +867,6 @@
     "responses": []
   },
   "formspreeEndpoint": "https://formspree.io/f/mbdnovgb",
-  "lastPublished": "2026-07-19T19:41:22.208Z"
+  "syncWorkerUrl": "https://bookclub-sync.gunnerhsmith.workers.dev/",
+  "lastPublished": "2026-07-20T16:27:38.414Z"
 }
